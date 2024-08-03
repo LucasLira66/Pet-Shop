@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.banner {
+    background-image: url(img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.marca{
+    font-size: 35px;
+    margin: 0 5px 0 0;
+}
+
+.marca img {
+    width: 30px;
+    margin-left: 5px;
+}
+
+.slogan {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.seg-conter {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.seg-conter h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.seg-conter p {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.seg-conter a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.seg-conter img {
+    width: 20px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    margin: 0 0 45px 0;
+}
+
+.lista {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.lista .itens {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.lista span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.img-servico {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    align-items: center;
+}
+
+.img-iten {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa {
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.faixa p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #ffff;
+}
+
+.span-faixa {
+    font-weight: 700px;
+    font-style: italic;
+}
+
+.faixa div a {
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.faixa div img {
+    width: 50px;
+    height: 50px;
+}
+
+.marcas div {
+    max-width: 800px;
+    max-width: 0 auto;
+}
+
+.marcas img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.onde-estamos p {
+    font-size: 20px;
+    color: #3c184e;
+    margin: 0 0 45px;
+}
+
+.onde-estamos iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodapé {
+    background-color: #3c184e;
+    padding: 10px 0;
+}
+
+.rodapé p {
+    color: #ffff;
+    font-size: 12px;
+}
